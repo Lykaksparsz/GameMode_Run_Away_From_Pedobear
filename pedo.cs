@@ -32,7 +32,7 @@ datablock PlayerData(PlayerPedo : PlayerStandardArmor)
 	hType = zombie; //Enemy,Friendly, Neutral
 	  hNeutralAttackChance = 100;
 	//can have unique types, nazis will attack zombies but nazis will not attack other bots labeled nazi
-	hName = "Zombie";//cannot contain spaces
+	hName = "Pedobear";//cannot contain spaces
 	hTickRate = 3000;
 	
 	//Wander Options
